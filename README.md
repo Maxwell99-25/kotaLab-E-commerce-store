@@ -6,6 +6,9 @@ User can browse kota meals,adjust quantities, add items to cart and
 view their order on a dedicated  cart page.Cart data is saved using  localstorage.
 so it stays even after refreshing.
 
+Live website:
+https://maxwell99-25.github.io/kotaLab-E-commerce-store/
+
 Features:
 ● Product grid with images,names and prices.
 ● Quality control(+/-)
